@@ -1,5 +1,6 @@
 # generate.py
-Generic purpose unit tests generator. This project assumes that you have prior skills in code generation and unit testing.
+Generic purpose unit tests generator for Python.
+This project assumes that you have prior skills in code generation and unit testing.
 
   
     #!/bin/python

@@ -1,5 +1,5 @@
 # generate.py
-Generic purpose unit tests generator
+Generic purpose unit tests generator. This project assumes that you have prior skills in code generation and unit testing.
 
   
     #!/bin/python
@@ -25,4 +25,5 @@ Build a list of cases per class name. In this example, application() will be tes
 
     test_id_exist()
     test_id_does_not_exist()
-    test_too_old_user_cannot_login
+    test_too_old_user_cannot_login()
+

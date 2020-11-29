@@ -12,6 +12,7 @@ Usage:
 
 
 Convert to test cases for these statements
+
     cases = {
         "application": [
             "id exist",

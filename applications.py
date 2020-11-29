@@ -1,5 +1,6 @@
 #!/bin/python
 # Mockup test applications
+# Complete with your own business logics here.
 
 class _SOMETHING:
     def something(self):
